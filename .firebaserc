@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pkpathak-8aa0f"
+  },
+  "targets": {
+    "pkpathak-8aa0f": {
+      "hosting": {
+        "poetry": [
+          "pkpathak-8aa0f"
+        ]
+      }
+    }
+  }
+}
